@@ -29,3 +29,5 @@ If a data attribute has more than two classes, label encoding can still be used,
 
 *Download dataset and try out using notebook. Do you have a preferred way to get data into Python and/or get it ready for a neural network? If so comment or contact me at nacosta@us.ibm.com*
 
+*replace screenshots with gists
+
