@@ -5,8 +5,7 @@ I was recently given a dataset and asked to build a Data Science presentation us
 ## Loading Data - CSV to Python Data Structure
 There are a many ways to get a csv into Python. Here I evaluate four: using Python, its csv library and the data processing libraries pandas and numpy.
 
-<script src="https://gist.github.com/PubChimps/2bc1421a41acaa7cc2aedc14f6d20d33.js"></script>
-
+{% gist 5555251 %}
 
 <img src="images/getfile.png">
 
